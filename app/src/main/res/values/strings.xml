@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mobile_Dev_Coursework</string>
+
+    <string name="btnGetCI">Current Incidents</string>
+
+    <string name="btnGetRW">Roadworks</string>
+
+    <string name="btnGetPRW">Planned Roadworks</string>
+
+</resources>
